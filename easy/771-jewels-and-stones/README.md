@@ -28,3 +28,4 @@ The characters in `J` are distinct.
 |Attempt|Language|Runtime|Runtime Comparison|Memory|Memory Comparison|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|JavaScript|56 ms|faster than 99.24% of JavaScript submissions|34.1 MB|less than 51.62% of JavaScript submissions|
+|1|JavaScript|60 ms|faster than 98.37% of JavaScript submissions|34.1 MB|less than 46.96% of JavaScript submissions|
