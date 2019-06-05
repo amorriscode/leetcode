@@ -12,10 +12,10 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 ## Lessons
 
-- What did you learn?
+- Watch out for the overflow
 
 ## Solutions
 
 |Attempt|Language|Runtime|Runtime Comparison|Memory|Memory Comparison|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|JavaScript|xxx|xxx|xxx|xxx|
+|1|JavaScript|124 ms|faster than 80.38% of JavaScript submissions|40.4 MB|less than 8.57% of JavaScript submissions|
