@@ -30,10 +30,11 @@ Could you solve it without converting the integer to a string?
 
 ## Lessons
 
-- What did you learn?
+- Solving without converting to a string is more difficult with more edge cases
 
 ## Solutions
 
 |Attempt|Language|Runtime|Runtime Comparison|Memory|Memory Comparison|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|JavaScript|204 ms|faster than 74.67% of JavaScript submissions|46 MB|less than 26.71% of JavaScript submissions|
+|2|JavaScript|192 ms|faster than 84.08% of JavaScript submissions|45 MB|less than 91.44% of JavaScript submissions|
