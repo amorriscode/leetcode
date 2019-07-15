@@ -1,4 +1,4 @@
-# 3. Longest Substring Without Repeating Characters
+# 3. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 
 Given a string, find the length of the **longest substring** without repeating characters.
 
@@ -33,6 +33,7 @@ _Note: we are looking for a **substring** not a **sequence**._
 - I need to think harder about edge cases, especially on Mediums/Hards
 - From a workflow perspective, keeping all edge cases helps when running my code over again
 - Using a set was a far more optimal solution (`2.js`)
+- Both `1.js` and `2.js` use a "sliding window" approach but the set is much better
 
 ## Solutions
 
