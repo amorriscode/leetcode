@@ -28,8 +28,13 @@ _Note: we are looking for a **substring** not a **sequence**._
 
 **Explanation:** `The answer is "wke", with the length of 3.`
 
+## Lessons
+
+- I need to think harder about edge cases, especially on Mediums/Hards
+- From a workflow perspective, keeping all edge cases helps when running my code over again
+
 ## Solutions
 
 |Attempt|Language|Runtime|Runtime Comparison|Memory|Memory Comparison|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|JavaScript|xxx ms|faster than xx.xx% of JavaScript submissions|xx.x MB|less than xx.xx% of JavaScript submissions|
+|1|JavaScript|300 ms|faster than 23.11% of JavaScript submissions|53.9 MB|less than 15.77% of JavaScript submissions|
