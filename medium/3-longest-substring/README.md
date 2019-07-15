@@ -32,9 +32,11 @@ _Note: we are looking for a **substring** not a **sequence**._
 
 - I need to think harder about edge cases, especially on Mediums/Hards
 - From a workflow perspective, keeping all edge cases helps when running my code over again
+- Using a set was a far more optimal solution (`2.js`)
 
 ## Solutions
 
 |Attempt|Language|Runtime|Runtime Comparison|Memory|Memory Comparison|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|JavaScript|300 ms|faster than 23.11% of JavaScript submissions|53.9 MB|less than 15.77% of JavaScript submissions|
+|1|JavaScript|80 ms|faster than 94.15% of JavaScript submissions|38.6 MB|less than 81.64% of JavaScript submissions|
