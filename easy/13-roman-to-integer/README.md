@@ -57,8 +57,14 @@ Given a roman numeral, convert it to an integer. Input is guaranteed to be withi
 
 **Explanation:** `M = 1000`, `CM = 900`, `XC = 90` and `IV = 4`
 
+## Lessons
+
+- Sometimes the wonderful JavaScript methods (`map`, `reduce`, `filter`) shouldn't be the first choice
+  - Chaining them togethr has some serious performance impacts which makes sense... so many loops!
+
 ## Solutions
 
 |Attempt|Language|Runtime|Runtime Comparison|Memory|Memory Comparison|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|JavaScript|184 ms|faster than 12.04% of JavaScript submissions|44.8 MB|less than 5.20% of JavaScript submissions|
+|1|JavaScript|128 ms|faster than 96.06% of JavaScript submissions|41.5 MB|less than 10.15% of JavaScript submissions|
