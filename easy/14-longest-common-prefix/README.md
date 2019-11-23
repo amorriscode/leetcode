@@ -18,3 +18,9 @@ If there is no common prefix, return an empty string "".
 ## Note
 
 All given inputs are in lowercase letters `a-z`.
+
+## Solutions
+
+|Attempt|Language|Runtime|Runtime Comparison|Memory|Memory Comparison|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|JavaScript|56 ms|faster than 80.28% of JavaScript submissions|34.5 MB|less than 62.50% of JavaScript submissions|
