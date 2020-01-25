@@ -2,12 +2,12 @@
 
 LeetCode questions and solutions in various languages.
 
-_Note: All `SOLUTION.md` files are sources from leetcode and are simply used to improve my knowledge._
+_Note: All `SOLUTION.md` files are sourced from leetcode and are simply used to improve my understanding._
 
 ## Solutions
 
-**Easy 🤓:** 3
+**Easy 🤓:** 5
 
-**Medium 🧐:** 2
+**Medium 🧐:** 3
 
 **Hard 🤯:** 0
