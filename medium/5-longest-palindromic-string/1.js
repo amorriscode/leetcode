@@ -22,20 +22,20 @@ const longestPalindrome = s => {
     return s;
   }
 
-  let longestPalindrom = '';
+  let currLongest = '';
   for (let i = 0; i < s.length; i++) {
     for (let j = s.length; j >= 0; j--) {
       const possiblePalindrome = s.substring(i, j);
 
       if (possiblePalindrome && isPalindrome(possiblePalindrome)) {
-        if (possiblePalindrome.length > longestPalindrom.length) {
-          longestPalindrom = possiblePalindrome;
+        if (possiblePalindrome.length > currLongest.length) {
+          currLongest = possiblePalindrome;
         }
       }
     }
   }
 
-  return longestPalindrom;
+  return currLongest;
 };
 
 console.log(longestPalindrome('babad'));
