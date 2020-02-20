@@ -18,6 +18,10 @@ A solution set is:
 ]
 ```
 
+## Notes
+
+- Had some trouble with this one, didn't think to split between positive, negative, and zeroes
+
 ## Solutions
 
 |Attempt|Language|Runtime|Runtime Comparison|Memory|Memory Comparison|
