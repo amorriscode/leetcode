@@ -14,9 +14,11 @@ Given `n` non-negative integers `a1, a2, ..., an`, where each represents a point
 
 - The exclusion point was easier to calculate than I let on
 - Spend as much time as possible understanding the problem
+- The pointer solution is tremendously faster than the brute force solution
 
 ## Solutions
 
 |Attempt|Language|Runtime|Runtime Comparison|Memory|Memory Comparison|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|JavaScript|680 ms|faster than 23.55% of JavaScript submissions|35.7 MB|less than 48.48% of JavaScript submissions|
+|2|JavaScript|44 ms|faster than 99.90% of JavaScript submissions|35.6 MB|less than 48.48% of JavaScript submissions|
