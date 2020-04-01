@@ -16,7 +16,7 @@ var numJewelsInStones = function(J, S) {
   
   jewels.forEach(value => {
     total += value;
-  })
+  });
   
   return total;
 };
