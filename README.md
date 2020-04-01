@@ -6,7 +6,7 @@ _Note: All `SOLUTION.md` files are sourced from leetcode and are simply used to 
 
 ## Solutions
 
-**Easy 🤓:** 7
+**Easy 🤓:** 8
 
 **Medium 🧐:** 5
 
