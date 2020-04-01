@@ -16,4 +16,4 @@ Merge two sorted linked lists and return it as a new list. The new list should b
 
 |Attempt|Language|Runtime|Runtime Comparison|Memory|Memory Comparison|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|JavaScript|68 ms|faster than 40.89% of JavaScript submissions|35.6 MB|less than 66.67% of JavaScript submissions|
+|1|JavaScript|64 ms|faster than 66.15% of JavaScript submissions|35.5 MB|less than 79.49% of JavaScript submissions|
