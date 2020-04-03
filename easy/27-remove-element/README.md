@@ -45,10 +45,11 @@ for (int i = 0; i < len; i++) {
 
 ## Lessons
 
-- 
+- Using two pointers ended up being slower than using JavaScript's `splice`
 
 ## Solutions
 
 |Attempt|Language|Runtime|Runtime Comparison|Memory|Memory Comparison|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|JavaScript|44 ms|faster than 99.17% of JavaScript submissions|34 MB|less than 5.55% of JavaScript submissions|
+|1|JavaScript|44 ms|faster than 99.17% of JavaScript submissions|34.0 MB|less than 5.55% of JavaScript submissions|
+|2|JavaScript|60 ms|faster than 34.25% of JavaScript submissions|33.7 MB|less than 94.44% of JavaScript submissions|
