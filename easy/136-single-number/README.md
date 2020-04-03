@@ -25,4 +25,5 @@ Your algorithm should have a linear runtime complexity. Could you implement it w
 |Attempt|Language|Runtime|Runtime Comparison|Memory|Memory Comparison|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|JavaScript|64 ms|faster than 51.01% of JavaScript submissions|38.1 MB|less than 17.31% of JavaScript submissions|
-|1|JavaScript|48 ms|faster than 98.38% of JavaScript submissions|37.8 MB|less than 26.92% of JavaScript submissions|
+|2|JavaScript|48 ms|faster than 98.38% of JavaScript submissions|37.8 MB|less than 26.92% of JavaScript submissions|
+|3|JavaScript|64 ms|faster than 51.01% of JavaScript submissions|35.3 MB|less than 92.31% of JavaScript submissions|
