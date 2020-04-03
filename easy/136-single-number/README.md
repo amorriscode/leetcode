@@ -18,10 +18,11 @@ Your algorithm should have a linear runtime complexity. Could you implement it w
 
 ## Lessons
 
-- 
+- Math tricks definitely help algorithsm become faster and smaller in space
 
 ## Solutions
 
 |Attempt|Language|Runtime|Runtime Comparison|Memory|Memory Comparison|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|JavaScript|64 ms|faster than 51.01% of JavaScript submissions|38.1 MB|less than 17.31% of JavaScript submissions|
+|1|JavaScript|48 ms|faster than 98.38% of JavaScript submissions|37.8 MB|less than 26.92% of JavaScript submissions|

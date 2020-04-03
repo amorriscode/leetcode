@@ -2,7 +2,7 @@
  * @param {number[]} nums
  * @return {number}
  */
-var singleNumber = (nums) => {
+const singleNumber = (nums) => {
   const numCounter = new Map();
 
   for (let i = 0; i < nums.length; i++) {
