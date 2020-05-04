@@ -10,6 +10,6 @@ _Note: All `SOLUTION.md` files are sourced from leetcode and are simply used to 
 
 **Easy 🤓:** 12
 
-**Medium 🧐:** 6
+**Medium 🧐:** 7
 
 **Hard 🤯:** 0
