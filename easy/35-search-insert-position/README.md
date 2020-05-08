@@ -26,10 +26,12 @@ You may assume no duplicates in the array.
 
 ## Lessons
 
-- 
+- Brute force it first
+- [Great complexity analysis of binary search](https://stackoverflow.com/a/8185382/10024329)
 
 ## Solutions
 
 |Attempt|Language|Runtime|Runtime Comparison|Memory|Memory Comparison|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|JavaScript|44 ms|faster than 98.41% of JavaScript submissions|34.7 MB|less than 31.25% of JavaScript submissions|
+|2|JavaScript|56 ms|faster than 54.89% of JavaScript submissions|33.8 MB|less than 81.25% of JavaScript submissions|
