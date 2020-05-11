@@ -13,10 +13,12 @@ Note: A word is defined as a maximal substring consisting of non-space character
 
 ## Lessons
 
-- 
+- I was able to improve my first solution by removing the need for a filter (`O(n)`) and trimming the input before splitting
 
 ## Solutions
 
 |Attempt|Language|Runtime|Runtime Comparison|Memory|Memory Comparison|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|JavaScript|48 ms|faster than 90.33% of JavaScript submissions|34 MB|less than 15.38% of JavaScript submissions|
+|1|JavaScript|52 ms|faster than 72.80% of JavaScript submissions|33.7 MB|less than 88.46% of JavaScript submissions|
+|2|JavaScript|48 ms|faster than 90.33% of JavaScript submissions|34 MB|less than 15.38% of JavaScript submissions|
+|3|JavaScript|48 ms|faster than 90.33% of JavaScript submissions|33.9 MB|less than 30.77% of JavaScript submissions|
