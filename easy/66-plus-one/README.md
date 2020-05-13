@@ -28,3 +28,4 @@ You may assume the integer does not contain any leading zero, except the number 
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|JavaScript|52 ms|faster than 83.05% of JavaScript submissions|34.1 MB|less than 8.51% of JavaScript submissions|
 |2|JavaScript|52 ms|faster than 83.05% of JavaScript submissions|33.7 MB|less than 89.36% of JavaScript submissions|
+|3|JavaScript|56 ms|faster than 61.01% of JavaScript submissions|33.9 MB|less than 25.53% of JavaScript submissions|
