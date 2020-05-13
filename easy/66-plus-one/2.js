@@ -5,12 +5,17 @@
 const plusOne = digits => {
   digits[digits.length - 1] += 1;
 
-  if (digits[digits.length - 1] === 10) {
-    if (digits.length > 1) {
-      digits = [...plusOne(digits.slice(0, digits.length - 1)), 0];
+  let i = digits.length - 1;
+
+  while (i >= 0 && digits[i] === 10) {
+    digits[i] = 0;
+    if (i > 0) {
+      digits[i - 1] += 1;
     } else {
-      digits = [1, 0];
+      digits.unshift(1);
     }
+
+    i--;
   }
 
   return digits;
@@ -21,6 +26,7 @@ const tests = [
   { expect: [4, 3, 2, 2], answer: plusOne([4, 3, 2, 1]) },
   { expect: [5, 0], answer: plusOne([4, 9]) },
   { expect: [1, 0], answer: plusOne([9]) },
+  { expect: [1, 0, 0], answer: plusOne([9, 9]) },
 ];
 
 tests.forEach(test => {

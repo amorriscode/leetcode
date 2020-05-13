@@ -27,3 +27,4 @@ You may assume the integer does not contain any leading zero, except the number 
 |Attempt|Language|Runtime|Runtime Comparison|Memory|Memory Comparison|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|JavaScript|52 ms|faster than 83.05% of JavaScript submissions|34.1 MB|less than 8.51% of JavaScript submissions|
+|2|JavaScript|52 ms|faster than 83.05% of JavaScript submissions|33.7 MB|less than 89.36% of JavaScript submissions|
