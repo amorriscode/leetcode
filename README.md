@@ -8,7 +8,7 @@ _Note: All `SOLUTION.md` files are sourced from leetcode and are simply used to 
 
 ## Solutions
 
-**Easy 🤓:** 19
+**Easy 🤓:** 20
 
 **Medium 🧐:** 10
 
