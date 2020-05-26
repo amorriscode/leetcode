@@ -49,3 +49,4 @@ Output: false
 |Attempt|Language|Runtime|Runtime Comparison|Memory|Memory Comparison|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|JavaScript|68 ms|faster than 20.33% of JavaScript submissions|33.9 MB|less than 26.67% of JavaScript submissions|
+|2|JavaScript|60 ms|faster than 30.40% of JavaScript submissions|33.8 MB|less than 80.00% of JavaScript submissions|
